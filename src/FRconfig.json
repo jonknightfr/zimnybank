@@ -1,0 +1,10 @@
+{
+	"clientId": "ForgeRockSDKClient",
+	"redirectUri": "https://sdkapp.example.com:8443/",
+	"scope": "openid profile email address fr:idm:*",
+	"serverConfig": {
+	    "baseUrl": "https://openam-jonknight.forgeblocks.com/am",
+	    "timeout": 5000
+	},
+	"realmPath": "alpha"
+}
